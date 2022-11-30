@@ -1,3 +1,15 @@
 {
-    "python.pythonPath": "/Users/bhargavbachina/Projects/python/python-flask-restapi/myapp/bin/python3"
+    "python.pythonPath": "/Users/bhargavbachina/Projects/python/python-flask-restapi/myapp/bin/python3",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "test",
+            "database": "testdb",
+            "username": "testuser",
+            "password": "welkom01"
+        }
+    ]
 }
